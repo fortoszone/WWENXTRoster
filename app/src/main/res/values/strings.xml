@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WWE NXT Roster</string>
+    <string name="superstar_name">Superstar Name</string>
+    <string name="superstar_title">Superstar Title</string>
+    <string name="profile">About</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim neque, aliquam sit amet nulla eget, varius sodales elit. Donec ut sodales risus. Sed laoreet posuere ultricies. Etiam rutrum, nunc non varius placerat, ex metus convallis est, at mattis dui augue vitae ante. Praesent id sapien iaculis, scelerisque erat id, vehicula felis. Nunc vel orci varius, posuere odio id, rhoncus neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam libero purus, imperdiet nec feugiat ac, aliquet vel turpis. Pellentesque laoreet sem dui, eu ultrices lacus elementum eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam interdum tempus odio, nec venenatis justo aliquet eu. Fusce vel ultrices purus. Nunc at erat libero. Donec ipsum ligula, malesuada et rhoncus vitae, imperdiet sit amet enim. Cras quam ipsum, egestas sed mauris sed, condimentum iaculis nibh. Etiam luctus elit eget ligula commodo dignissim.</string>
+    <string name="about">About</string>
+    <string name="courtesy">Courtesy of Pro Wrestling Fandom</string>
+    <string name="detail_desc">Superstar Detail Image</string>
+    <string name="profile_name">Devwanto Dariel Nugroho</string>
+    <string name="email_profile">devanugroho03@gmail.com</string>
+    <string name="home">Home</string>
+
+
+</resources>
